@@ -107,4 +107,3 @@ function draw() {
     astronaut.velocityY = 1;
   }
 
-}
